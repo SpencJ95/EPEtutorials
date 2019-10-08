@@ -1,13 +1,14 @@
-# EPEtutorials
-installation
--git
--windows bash + Python
--anaconda
+# Elementary Particle Expirement Tutorials
+ToDo:
+* installation
+  * git
+  * windows bash + Python
+  * anaconda
 
-tutorials
-bash
-getting documentation
+* tutorials
+  * bash
+  * getting documentation
 
-Python tutorials
-more problems
-unit testing
+* Python tutorials
+  * more problems
+  * unit testing
