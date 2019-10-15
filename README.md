@@ -1,6 +1,6 @@
 # Elementary Particle Expirement Tutorials
 markup cheatsheet: https://en.wikipedia.org/wiki/Markdown  
-jupyter shortcuts: https://stackoverflow.com/a/38195812
+jupyter shortcuts: https://stackoverflow.com/a/38195812  
 ToDo:
 * installation
   * git
