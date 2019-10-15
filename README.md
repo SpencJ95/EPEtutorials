@@ -1,20 +1,25 @@
 # Elementary Particle Expirement Tutorials
 markup cheatsheet: https://en.wikipedia.org/wiki/Markdown  
 jupyter shortcuts: https://stackoverflow.com/a/38195812  
-ToDo:
-* installation
-  * git
-  * windows bash + Python
-  * anaconda
 
-* tutorials
-  * bash
-  * getting documentation
+packages  
+bash  
+git
+variables
+string-files
+containers
+logic and loops
+functions
+monte carlo
+classes and objects
+documentation (fluff)
+debugging/testing (fluff/excercises) (creating custom exceptions)
+jets
+jets model 2d
+jets model 3d
+machine learning (expand)
+deep learning (expand)
 
-* Python tutorials
-  * more problems
-  * unit testing
-  
 ## Git Installation
 
 To install git, go to [this website](https://git-scm.com/downloads) and download the installer for your operating system. If you do not already have a bash shell installed, make sure to also choose that option for install as git is a terminal application.
