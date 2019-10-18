@@ -27,7 +27,7 @@ To install git, go to [this website](https://git-scm.com/downloads) and download
 On Mac, if you get a warning saying the .pkg file can’t be opened because it is from an unidentified developer, go to your System Preferences -> Security and Privacy and click on "open anyway." Follow the rest of the installer instructions to finish installing git.
 
 ## Anaconda Installation
-To install anaconda, first go to [this website](https://www.anaconda.com/distribution/), and download either the graphical installer for Python 3 Once downloaded, follow the install wizard. The default settings are usually good choices. Make sure to choose Anaconda's python kernel as default, as it makes using the different frameworks and plugins much easier.
+To install anaconda, first go to [this website](https://www.anaconda.com/distribution/), and download the installer for Python 3. Once downloaded, follow the install wizard. The default settings are usually good choices. Make sure to choose Anaconda's python kernel as default, as it makes using the different frameworks and plugins much easier.
 
 If you already have pip and Python 3 installed, you can run ```pip3 install anaconda``` in bash to get Anaconda.
 
