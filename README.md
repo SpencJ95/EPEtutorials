@@ -36,4 +36,4 @@ On Windows, make sure to select the option "Add Anaconda to my PATH environment 
 If you already have pip and Python 3 installed, you can run ```pip3 install anaconda``` in bash to get Anaconda.
 
 ## After installation
-Once you have successfully installed git and anaconda, run ```jupyter notebook``` and navigate to [the first lesson, 00-packages.ipynb](https://github.com/vladov3000/EPEtutorials/blob/master/00-packages.ipynb). If you ever get stuck at a section in these tutorials, remember that it is ok to ask somebody for help. Everyone was once where you are now. Good Luck!
+Once you have successfully installed git and anaconda, create a github account and sign in. You can download the repository by clicking on the green "Clone or Download" button. This should say "Clone with HTTPS" with  Open up git bash, and type ```git clone [The web address here]```. This will download the repository to your local machine at your home directory. Then, open jupyter notebook either by the Anaconda Navigator or by going to git bash and typing ```jupyter notebook```.
