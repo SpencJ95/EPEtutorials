@@ -1,24 +1,7 @@
 # Elementary Particle Expirement Tutorials
-markup cheatsheet: https://en.wikipedia.org/wiki/Markdown  
-jupyter shortcuts: https://stackoverflow.com/a/38195812  
 
-packages  
-bash  
-git  
-variables  
-string-files  
-containers  
-logic and loops  
-functions  
-monte carlo  
-classes and objects  
-documentation (fluff)  
-debugging/testing (fluff/excercises) (creating custom exceptions)  
-jets  
-jets model 2d  
-jets model 3d  
-machine learning (expand)  
-deep learning (expand)  
+Original EPE Tutorials can be found [here](https://bitbucket.org/scopatz/aims-scicomp/src/master/).
+Updated by Vladimir Ovechkin and Adam Klingler
 
 ## Git Installation
 
